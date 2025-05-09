@@ -1,0 +1,35 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install Dependencies
+      run: |
+          sudo apt update
+          sudo apt install -y pandoc texlive-latexbase texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+          
+    - name: Generate HTML and PDF
+      run: |
+          mkdir -p docs
+          pandoc README.md -f markdown -t html -s -o docs/index.html --metadata title="Omar Kassem"
+          pandoc README.md --pdf-engine=xelatex -o docs/resume.pdf
+
+    - name: Commit and Push Changes
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff-index --quiet HEAD || git commit -m "Update generated resume"
+          git push origin main
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
