@@ -1,11 +1,11 @@
-Omar Kassem  
+# Omar Kassem  
 Software Engineer  
-+20 100 040 6314 | omarkassem099@gmail.com | [github.com](https://github.com/0oM4R) | [linkedin.com](https://www.linkedin.com/in/omar-kassem/)
+(+20) 100 040 6314 | omarkassem099@gmail.com | [github.com/0oM4R](https://github.com/0oM4R) | [linkedin.com/in/omar-kassem/](https://www.linkedin.com/in/omar-kassem/)
 
 ---
 
-### Professional Summary  
-Software engineer with two years of professional experience, passionate about learning and adapting to new technologies. Known for being a quick learner and versatile in various technological environments. Seeking opportunities to leverage technical expertise, leadership skills, and strong communication abilities to contribute to impactful and innovative projects.
+### Summary  
+Software engineer with three years of professional experience, passionate about learning and adapting to new technologies. Known for being a quick learner and versatile in various technological environments. Seeking opportunities to leverage technical expertise, leadership skills, and strong communication abilities to contribute to impactful and innovative projects.
 
 ---
 
@@ -39,7 +39,7 @@ Cumulative Grade: 76% (Very Good)
 ### Skills  
 
 - **Languages:** JavaScript, TypeScript, Go, Dart, C++, Python  
-- **Technologies:** Vue, Node.js, Flutter, Linux, AWS Services, CloudFormation, OOP, REST API, Git, SQL, NoSQL, HTML, CSS, Django, Terraform, Svelte, GitHub Actions, Docker, Kubernetes, Helm  
+- **Technologies:** Vue, Node.js, Flutter, React Native, Linux, AWS Services, CloudFormation, OOP, REST API, Git, SQL, NoSQL, HTML, CSS, Django, Terraform, Svelte, GitHub Actions, Docker, Kubernetes, Helm  
 
 ---
 
