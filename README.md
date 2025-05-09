@@ -51,7 +51,7 @@ Cumulative Grade: 76% (Very Good)
 
 ### Skills  
 
-- **Languages:** JavaScript, TypeScript, Go, Dart, C++, Python  
+- **Languages:** JavaScript, TypeScript, Go, Dart, C++, Python
 - **Technologies:** Vue, Node.js, Flutter, React Native, Linux, AWS Services, CloudFormation, OOP, REST API, Git, SQL, NoSQL, HTML, CSS, Django, Terraform, Svelte, GitHub Actions, Docker, Kubernetes, Helm  
 
 ---
@@ -75,14 +75,14 @@ Deployed a high-availability web app using AWS CloudFormation, EC2, VPC, and S3 
 
 ---
 
-### Leadership & Activities  
+### Leadership & Activities
 
-- **Computer Science Circle Leader** – CAT Reloaded (Jan 2021 – Oct 2021)  
-- **Technical Member** – ICPC Mansoura (Oct 2020 – Oct 2021)  
+- **Computer Science Circle Leader** – CAT Reloaded (Jan 2021 – Oct 2021)
+- **Technical Member** – ICPC Mansoura (Oct 2020 – Oct 2021)
 
 ---
 
-### Achievements & Certifications  
+### Achievements & Certifications
 
-- Professional Front-End Web Development Nanodegree – Udacity  
+- Professional Front-End Web Development Nanodegree – Udacity
 - Web Development Using Node.js and Angular – NTI
