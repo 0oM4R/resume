@@ -14,26 +14,31 @@ Software engineer with three years of professional experience, passionate about 
 
 **Software Engineer**  
 *Codescalers – October 2022 – Present*  
-  - Maintaining and developing new features for Threefold Solutions, the world's largest P2P infrastructure provider.  
-  - Developing TypeScript packages for the TFGrid-SDK-TS monorepo, which includes the Threefold Dashboard and connects with TFChain and GridClient.  
-  - Introduced a service monitor package that allows the Dashboard and GridClient to ping third-party services on separate stacks, switching to the next stack if one fails.  
-  - Added a chain event listener in the TFChain client — a generic function that accepts validation keys and returns target event information.  
-  - Created a Vue-based Threefold Stats website to visualize real-time grid statistics, and provided a lightweight summary endpoint using Nginx and JavaScript to return JSON data without requiring backend services.  
-  - Tech Stack: TypeScript, Vue, Vuetify, Node.js, Svelte, Lerna, Polkadot JS, Flutter, Docker, Kubernetes, GitHub Actions, GraphQL  
+
+- Maintaining and developing new features for Threefold Solutions, the world's largest P2P infrastructure provider.  
+- Developing TypeScript packages for the TFGrid-SDK-TS monorepo, which includes the Threefold Dashboard and connects with TFChain and GridClient.  
+- Introduced a service monitor package that allows the Dashboard and GridClient to ping third-party services on separate stacks, switching to the next stack if one fails.  
+- Added a chain event listener in the TFChain client — a generic function that accepts validation keys and returns target event information.  
+- Created a Vue-based Threefold Stats website to visualize real-time grid statistics, and provided a lightweight summary endpoint using Nginx and JavaScript to return JSON data without requiring backend services.  
+- Tech Stack: TypeScript, Vue, Vuetify, Node.js, Svelte, Lerna, Polkadot JS, Flutter, Docker, Kubernetes, GitHub Actions, GraphQL  
 
 **Software Engineer Intern**  
 *Codescalers – July 2022 – September 2022*  
-  - Built Go projects integrated with Svelte front-end applications, including unit testing, Docker image creation, and Kubernetes container orchestration.  
-  - Worked on CSHR, a comprehensive HR management system built using Django, DRF, Svelte, and REST API.
+
+- Built Go projects integrated with Svelte front-end applications, including unit testing, Docker image creation, and Kubernetes container orchestration.  
+- Worked on CSHR, a comprehensive HR management system built using Django, DRF, Svelte, and REST API.
+
 
 **Freelance Mobile Developer – React Native**  
-*RXA Construct – October 2024 – February 2025*  
-  - Developed and maintained features for the **RXA Construct** mobile application using **React Native**, improving user experience and app performance.
-  - Fixed critical bugs related to navigation, state management, and API integrations, increasing app stability.
-  - Collaborated with the backend team to integrate RESTful APIs and ensure seamless data flow.
-  - Ensured cross-platform compatibility and optimized performance across a wide range of Android and iOS devices.
-  - Successfully released the updated app to both **Google Play Store** and **Apple App Store**.
-  - Visit Project [Website](https://www.rxaconstruct.com )
+*RXA Construct – October 2024 – February 2025*
+
+- Developed and maintained features for the **RXA Construct** mobile application using **React Native**, improving user experience and app performance.
+- Fixed critical bugs related to navigation, state management, and API integrations, increasing app stability.
+- Collaborated with the backend team to integrate RESTful APIs and ensure seamless data flow.
+- Ensured cross-platform compatibility and optimized performance across a wide range of Android and iOS devices.
+- Successfully released the updated app to both **Google Play Store** and **Apple App Store**.
+- Visit Project [Website](https://www.rxaconstruct.com)
+
 
 ---
 

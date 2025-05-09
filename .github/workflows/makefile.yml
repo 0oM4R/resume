@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Generate HTML and PDF
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
       run: |
           sudo apt update
           sudo apt install -y texlive-xetex
-          sudo apt install -y pandoc texlive-latexbase texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+          sudo apt install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
           
     - name: Generate HTML and PDF
       run: |
@@ -29,8 +29,10 @@ jobs:
       run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch
+          git switch gh-pages || git checkout --orphan gh-pages
           git add docs/
           git diff-index --quiet HEAD || git commit -m "Update generated resume"
-          git push origin main
+           git push origin gh-pages --force
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
