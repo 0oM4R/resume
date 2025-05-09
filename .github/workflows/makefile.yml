@@ -27,7 +27,7 @@ jobs:
 
     - name: Commit and Push Changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PERSONAL_TOKEN: ${{ secrets.PAGES_TOKEN }}
       run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -35,5 +35,5 @@ jobs:
           git switch gh-pages || git checkout --orphan gh-pages
           git add docs/
           git diff-index --quiet HEAD || git commit -m "Update generated resume"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} gh-pages --force
+          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }} gh-pages --force
       
