@@ -1,6 +1,15 @@
+---
+header-includes:
+  - \usepackage{fontspec}
+  - \usepackage[paperwidth=8.5in, paperheight=13in, margin=1in]{geometry}
+  - \usepackage{parskip}
+  - \setlength{\parindent}{0pt}
+---
+<style>h1.title { display: none; }</style>
 # Omar Kassem  
-Software Engineer  
-(+20) 100 040 6314 | omarkassem099@gmail.com | [github.com/0oM4R](https://github.com/0oM4R) | [linkedin.com/in/omar-kassem/](https://www.linkedin.com/in/omar-kassem/)
+**Software Engineer**
+
+[ (+20) 100 040 6314 ](tel:+201000406314) | <omarkassem099@gmail.com> | [Github](https://github.com/0oM4R) | [Linkedin](https://www.linkedin.com/in/omar-kassem/)
 
 ---
 
@@ -24,6 +33,15 @@ Software engineer with three years of professional experience, passionate about 
 *Codescalers – July 2022 – September 2022*  
 - Built Go projects integrated with Svelte front-end applications, including unit testing, Docker image creation, and Kubernetes container orchestration.  
 - Worked on CSHR, a comprehensive HR management system built using Django, DRF, Svelte, and REST API.
+
+**Freelance Mobile Developer – React Native**  
+*RXA Construct – October 2024 – February 2025*  
+- Developed and maintained features for the **RXA Construct** mobile application using **React Native**, improving user experience and app performance.
+- Fixed critical bugs related to navigation, state management, and API integrations, increasing app stability.
+- Collaborated with the backend team to integrate RESTful APIs and ensure seamless data flow.
+- Ensured cross-platform compatibility and optimized performance across a wide range of Android and iOS devices.
+- Successfully released the updated app to both **Google Play Store** and **Apple App Store**.
+- Visit Project [Website](https://www.rxaconstruct.com )
 
 ---
 
