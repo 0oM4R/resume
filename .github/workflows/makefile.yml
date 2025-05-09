@@ -16,6 +16,7 @@ jobs:
     - name: Install Dependencies
       run: |
           sudo apt update
+          sudo apt install -y texlive-xetex
           sudo apt install -y pandoc texlive-latexbase texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
           
     - name: Generate HTML and PDF
