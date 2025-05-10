@@ -1,16 +1,11 @@
 # Omar Kassem  
 **Software Engineer**
 
-[ (+20) 100 040 6314 ](tel:+201000406314) | <omarkassem099@gmail.com> | [Github](https://github.com/0oM4R) | [Linkedin](https://www.linkedin.com/in/omar-kassem/)
+[ (+20)100 040 6314 ](tel:+201000406314) | <omarkassem099@gmail.com> | [github.com/0oM4R](https://github.com/0oM4R) | [linkedin.com/in/omar-kassem](https://www.linkedin.com/in/omar-kassem/)
 
 ---
 
-### Summary  
-Software engineer with three years of professional experience, passionate about learning and adapting to new technologies. Known for being a quick learner and versatile in various technological environments. Seeking opportunities to leverage technical expertise, leadership skills, and strong communication abilities to contribute to impactful and innovative projects.
-
----
-
-### Professional Experience  
+### Professional Experience
 
 **Software Engineer**  
 *Codescalers – October 2022 – Present*
@@ -18,7 +13,7 @@ Software engineer with three years of professional experience, passionate about 
 - Maintaining and developing new features for [Threefold](https://threefold.io/) Solutions, the world's largest P2P infrastructure provider.
 - Developing TypeScript packages for the [TFGrid-SDK-TS](https://github.com/threefoldtech/tfgrid-sdk-ts) monorepo, which includes the Threefold Dashboard and connects with TFChain and GridClient.
 - Introduced a service monitor package that allows the Dashboard and GridClient to ping third-party services on separate stacks, switching to the next stack if one fails.
-- Added a chain event listener in the TFChain client — a generic function that accepts validation keys and returns target event information.
+- Implemented a chain event listener in the TFChain client to subscribe to specified blockchain events.
 - Created a Vue-based Threefold Stats website to visualize real-time grid statistics, and provided a lightweight summary endpoint using Nginx and JavaScript to return JSON data without requiring backend services.
 - Tech Stack: TypeScript, Vue, Vuetify, Node.js, Svelte, Lerna, Polkadot JS, Flutter, Docker, Kubernetes, GitHub Actions, GraphQL  
 
