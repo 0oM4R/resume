@@ -12,7 +12,7 @@
 
 - Maintaining and developing new features for [Threefold](https://threefold.io/) Solutions, the world's largest P2P infrastructure provider.
 - Developing TypeScript packages for the [TFGrid-SDK-TS](https://github.com/threefoldtech/tfgrid-sdk-ts) monorepo, which includes the Threefold Dashboard and connects with TFChain and GridClient.
-- Introduced a service monitor package that allows the Dashboard and GridClient to ping third-party services on separate stacks, switching to the next stack if one fails.
+- Developed a service monitor package to track the status of any third-party service across different stacks, ensuring resilience through automatic failover to alternative stacks.
 - Implemented a chain event listener in the TFChain client to subscribe to specified blockchain events.
 - Created a Vue-based Threefold Stats website to visualize real-time grid statistics, and provided a lightweight summary endpoint using Nginx and JavaScript to return JSON data without requiring backend services.
 - Tech Stack: TypeScript, Vue, Vuetify, Node.js, Svelte, Lerna, Polkadot JS, Flutter, Docker, Kubernetes, GitHub Actions, GraphQL  
